@@ -1,3 +1,5 @@
 env.sh
 *.zip
 *_out*.*
+static/img_0
+static/img_1
